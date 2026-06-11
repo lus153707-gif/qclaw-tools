@@ -1,0 +1,7 @@
+# 配置文件示例
+data_source: "akshare"
+market_index: "000001.SH"
+stock_list: []
+backtest_start: "2010-01-01"
+backtest_end: "2026-06-10"
+prediction_days: 100
